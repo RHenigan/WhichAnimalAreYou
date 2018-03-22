@@ -1,7 +1,8 @@
-package com.example.rhenigan.whichanimalareyou;
+package com.example.rhenigan.whichanimalareyou.Model;
+
+import com.example.rhenigan.whichanimalareyou.R;
 
 import java.util.ArrayList;
-import java.util.List;
 
 /**
  * Created by henig on 3/19/2018.

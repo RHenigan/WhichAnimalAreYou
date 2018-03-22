@@ -1,4 +1,4 @@
-package com.example.rhenigan.whichanimalareyou;
+package com.example.rhenigan.whichanimalareyou.Activities;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -10,8 +10,12 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.TextView;
+import android.widget.Toast;
 
-import java.util.ArrayList;
+import com.example.rhenigan.whichanimalareyou.Model.Animal;
+import com.example.rhenigan.whichanimalareyou.Model.AnimalArray;
+import com.example.rhenigan.whichanimalareyou.R;
+import com.example.rhenigan.whichanimalareyou.Model.StatementArray;
 
 
 //pexels.com

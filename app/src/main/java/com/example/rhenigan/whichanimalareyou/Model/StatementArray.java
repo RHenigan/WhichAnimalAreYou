@@ -1,4 +1,4 @@
-package com.example.rhenigan.whichanimalareyou;
+package com.example.rhenigan.whichanimalareyou.Model;
 
 import java.util.ArrayList;
 

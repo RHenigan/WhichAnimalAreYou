@@ -1,4 +1,4 @@
-package com.example.rhenigan.whichanimalareyou;
+package com.example.rhenigan.whichanimalareyou.Activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -7,7 +7,8 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import java.util.Objects;
+import com.example.rhenigan.whichanimalareyou.Model.Animal;
+import com.example.rhenigan.whichanimalareyou.R;
 
 public class ResultActivity extends AppCompatActivity {
 

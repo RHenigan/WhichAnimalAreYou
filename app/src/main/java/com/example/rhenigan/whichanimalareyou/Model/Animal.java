@@ -1,9 +1,7 @@
-package com.example.rhenigan.whichanimalareyou;
+package com.example.rhenigan.whichanimalareyou.Model;
 
 import android.os.Parcel;
 import android.os.Parcelable;
-
-import java.util.Arrays;
 
 /**
  * Created by henig on 3/19/2018.
